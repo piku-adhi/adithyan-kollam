@@ -24,7 +24,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
 
 
-<b>my GitHub stats</b><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en" alt="MR-SHRLCK" /></p>
+<b>my GitHub stats</b><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en" alt="piku-adhi" /></p>
 
 ### Hits
 [![ adithyan-kollam HitCount](http://hits.dwyl.com/adithyan-kollam/adithyan-kollam.svg)](http://hits.dwyl.com/adithyan-kollam/MR-SHRLCK)
